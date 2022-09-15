@@ -10,7 +10,7 @@ An automatic generator set shall be provided to provide emergency backup generat
 * Prime / Continuous – 230kVA / 184kW
 * Standby rated – 250kVA / 200kW
 * Generator set local Control Panel (LCP) installed adjacent to generator set complete with controls, instruments, gauges, etc.
-* Programming of generator start signal from phase failure relays within the main switchboard <<xxxx>> and downstream automatic transfer switches. 
+* Programming of generator start signal from phase failure relays within the main switchboard <<SwitchboardRef>> and downstream automatic transfer switches. 
 * Engine Starting system complete with 24V DC maintenance free lead acid battery and charger
 * DC system complete with 24V DC battery chargers, sealed lead acid batteries, DC distribution boards, battery alarm and associated components as required for the generator set and plant controls
 * Generator set mounted, direct coupled radiator for heat rejection
